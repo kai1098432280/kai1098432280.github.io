@@ -1,0 +1,306 @@
+/* CSS Document */
+*{
+	margin:0px;
+	padding:0px;}
+.wrapper{
+	width:955px;
+	height:1295px;
+	margin:0 auto;}
+.nav{
+	width:935px;
+	height:70px;
+	margin-left:20px;
+	margin-bottom:22px;}
+.nav1{
+	width:13px;
+	height:44px;
+	margin-top:26px;
+	margin-right:11px;
+	float:left;}
+.nav2{
+	width:319px;
+	height:44px;
+	float:left;
+	margin-top:26px;
+	margin-right:273px;}
+.nav3{
+	width:318px;
+	height:55px;
+	float:left;
+	padding-top:15px;}
+.nav3 ul li{
+	font-family:"黑体";
+	font-size:14px;
+	float:left;
+	list-style:none;
+	margin-right:10px;}
+.nav3 ul li a:link{
+	color:#000;
+	text-decoration:none;}
+.nav3 ul li span{
+	color:#6ec2de;}
+.nav4{
+	font-size:14px;
+	width:100px;
+	height:13px;
+	float:left;
+	margin-left:10px;}
+.nav4 a:link{
+	color:#000;
+	text-decoration:none;}
+.nav5{
+	width:871px;
+	height:40px;
+	margin-left:20px;
+	margin-bottom:30px;
+	text-align:center;
+	line-height:40px;
+	padding-top:2px;
+	border-top:2px #CCCCCC solid;
+	border-bottom:2px #CCC solid;}
+.nav5 ul li{
+	float:left;
+	list-style:none;}
+.nav5 ul li a:link{
+	color:#000;
+	text-decoration:none;}
+.border1{
+	width:93px;
+	height:39px;
+	font-family:"黑体";
+	border-top:2px #666666 solid;
+	border-right:1px #999999 solid;}
+.border2{
+	width:102px;
+	height:39px;
+	font-family:"黑体";
+	border-top:2px #F00 solid;
+	border-right:1px #999999 solid;}
+.border3{
+	width:103px;
+	height:39px;
+	font-family:"黑体";
+	border-top:2px #00F solid;
+	border-right:1px #999999 solid;}
+.border4{
+	width:102px;
+	height:39px;
+	font-family:"黑体";
+	border-top:2px #F90 solid;
+	border-right:1px #999999 solid;}
+.border5{
+	width:103px;
+	height:39px;
+	font-family:"黑体";
+	border-top:2px #28badd solid;
+	border-right:1px #999999 solid;}
+.border6{
+	width:103px;
+	height:39px;
+	font-family:"黑体";
+	border-top:2px #f07da9 solid;
+	border-right:1px #999999 solid;}
+.border7{
+	width:75px;
+	height:39px;
+	font-family:"黑体";
+	border-top:2px #9d7baa solid;
+	border-right:1px #999999 solid;}
+.border8{
+	width:102px;
+	height:39px;
+	font-family:"黑体";
+	border-top:2px #a6cd46 solid;
+	border-right:1px #999999 solid;}
+.border9{
+	width:80px;
+	height:39px;
+	font-family:"黑体";
+	border-top:2px #39d737 solid;}
+.content{
+	width:915px;
+	height:31px;
+	margin-left:20px;
+	margin-bottom:11px;}
+.content1{
+	width:162px;
+	height:31px;
+	font-family:"黑体";
+	text-align:center;
+	line-height:31px;
+	background-color:#f76d1c;
+	float:left;}
+.content1 a:link{
+	color:#FFF;
+	text-decoration:none;}
+.content2{
+	width:753px;
+	height:29px;
+	border-bottom:2px #e5e5e5 solid;
+	float:left;}
+.content3{
+	width:915px;
+	height:483px;
+	margin-left:20px;
+	margin-bottom:51px;}
+.con{
+	width:915px;
+	height:226px;
+	margin-left:20px;
+	margin-bottom:57px;}
+.con1{
+	width:590px;
+	height:226px;
+	margin-right:27px;
+	float:left;}
+.con2{
+	width:590px;
+	height:31px;
+	font-family:"黑体";
+	border-bottom:2px #5a6793 solid;
+	text-align:left;
+	line-height:31px;}
+.con2 a:link{
+	color:#000;
+	text-decoration:none;}
+.con2-1{
+	width:65px;
+	height:23px;
+	font-family:"黑体";
+	border:2px #989898 solid;
+	float:right;
+	text-align:center;
+	line-height:23px;}
+.con2-1 a:link{
+	color:#000;
+	text-decoration:none;}
+.con3{
+	width:590px;
+	height:178xp;}
+.con3-1{
+	width:170px;
+	height:190px;
+	border-bottom:2px #5a6793 solid;
+	margin-right:39px;
+	float:left;}
+.con3-2{
+	width:381px;
+	height:190px;
+	border-bottom:2px #5a6793 solid;
+	float:left;}
+.con3-2 ul li{
+	font-family:"黑体";
+	font-size:12px;
+	line-height:25px;
+	list-style:none;}
+.con3-2 a:link{
+	color:#000;
+	text-decoration:none;}
+.con3-2 ul li a span{
+	width:60px;
+	float:right;}
+.con3-3{
+	width:18px;
+	height:190px;
+	border-bottom:2px #5a6793 solid;
+	float:left;}
+.con3-4{
+	width:63px;
+	height:190px;
+	border-bottom:2px #5a6793 solid;
+	float:left;}
+.con3-4 ul li{
+	font-family:"黑体";
+	line-height:25px;
+	font-size:12px;
+	list-style:none;}
+.con4{
+	width:298px;
+	height:226px;
+	border-bottom:2px #FF0000 solid;
+	float:left;}
+.con4-1{
+	width:298px;
+	height:31px;
+	font-family:"黑体";
+	color:#F00;
+	border-bottom:2px #FF0000 solid;
+	text-align:left;
+	line-height:31px;}
+.con4-1 a:link{
+	color:#F00;
+	text-decoration:none;}
+.con4-2{
+	width:65px;
+	height:23px;
+	font-family:"黑体";
+	color:#F00;
+	border:2px #F00 solid;
+	float:right;
+	text-align:center;
+	line-height:23px;}
+.con4-2 a:link{
+	color:#F00;
+	text-decoration:none;}
+.con4-3{
+	width:298px;
+	height:194px;}
+.con4-3 ul li{
+	list-style:none;
+	font-family:"黑体";
+	font-size:12px;
+	line-height:25px;}
+.con4-3 ul li a:link{
+	color:#000;
+	text-decoration:none;}
+.con4-3 ul li span{
+	color:#f083ad;}
+.footer{
+	width:916px;
+	height:160px;
+	border-bottom:2px #CCCCCC solid;
+	margin-left:20px;}
+.footer1{
+	width:916px;
+	height:26px;
+	border-bottom:2px #4ec5e1 solid;
+	color:#4ec5e1;}
+.footer1 a:link{
+	color:#4ec5e1;
+	font-family:"黑体";
+	text-decoration:none;}
+.footer2{
+	width:955px;
+	height:134px;}
+.footer2 dl{
+	float:left;
+	margin-right:23px;
+	margin-top:20px;}
+.footer2 dt img{
+	width:80px;
+	height:80xp;
+	display:block;
+	margin-bottom:10px;}
+.footer2 dd{
+	width:80xp;
+	height:30px;
+	font-size:12px;
+	font-family:"黑体";}
+.footer3{
+	width:916px;
+	height:26px;
+	border-bottom:2px #CCCCCC solid;
+	font-family:"黑体";
+	float:left;
+	text-align:left;
+	line-height:26px;
+	margin-bottom:20px;}
+.footer4{
+	width:916px;
+	height:15px;
+	margin-left:20px;
+	font-size:14px;
+	font-family:"黑体";
+	float:left;
+	text-align:right;
+	line-height:15px;}
